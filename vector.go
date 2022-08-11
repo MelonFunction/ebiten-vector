@@ -1,4 +1,4 @@
-// Package vector 👍
+// Package vector provides vector functions
 package vector
 
 import "math"
